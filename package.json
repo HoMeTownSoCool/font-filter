@@ -1,0 +1,15 @@
+{
+  "name": "font-filter",
+  "version": "1.0.0",
+  "description": "font-filter是一个基于fontmin二次封装的的字体过滤工具，可以过滤无用字体，大幅减少字体包大小！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fontmin": "^0.9.9"
+  }
+}
